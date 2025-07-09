@@ -1,0 +1,76 @@
+
+    /* Style spécifique pour les projets */
+    body {
+      font-family: 'Quicksand', sans-serif;
+      background-color: #fffef9;
+      color: #333;
+      margin: 0;
+      padding: 0 15px;
+    }
+    .projets-header {
+      text-align: center;
+      margin: 30px 0;
+      color: #5a7d1f;
+    }
+    .projets-header h1 {
+      font-weight: 600;
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    .projets-header p {
+      font-size: 1.1rem;
+      margin-bottom: 15px;
+    }
+    nav a.retour-accueil {
+      text-decoration: none;
+      color: #8bbf40;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto 50px;
+    }
+    section.projet {
+      background-color: #f9f9f5;
+      border-left: 6px solid #8bbf40;
+      padding: 20px 25px;
+      margin-bottom: 40px;
+      box-shadow: 2px 2px 10px rgba(0,0,0,0.08);
+      border-radius: 6px;
+    }
+    section.projet h2 {
+      color: #5a7d1f;
+      font-weight: 600;
+      margin-bottom: 15px;
+    }
+    section.projet p {
+      line-height: 1.6;
+      margin-bottom: 12px;
+    }
+    section.projet ul {
+      list-style: none;
+      padding-left: 0;
+      margin-bottom: 15px;
+    }
+    section.projet ul li {
+      margin-bottom: 8px;
+      font-size: 1rem;
+    }
+    .project-image {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin: 15px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px 0;
+      font-style: italic;
+      color: #8bbf40;
+      border-top: 1px solid #ddd;
+    }
+    footer p {
+      margin: 0;
+    }
+ 
